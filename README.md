@@ -1,6 +1,8 @@
 # weatherData
 WeatherData 48hr code challange for SNTmedia
 
+Project located in workspace.zip
+
 Created by: Daniel DeBolt
 
 I created this site using Cloud9. 
