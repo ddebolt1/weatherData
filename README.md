@@ -1,5 +1,7 @@
 # weatherData
-WeatherData 48hr code challange for SNTmedia
+WeatherData Application
+
+Web application to store and display weather data from a mysql database using Laravel5
 
 Project located in workspace.zip
 
