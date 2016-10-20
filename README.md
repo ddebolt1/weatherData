@@ -13,4 +13,4 @@ database tables were created using migrations and are visiable within the projec
 
 You can view a short video i made navigateing the site if you come aross any issues.
 
-https://youtu.be/JC5LZe7cifk 
+https://youtu.be/ERcQMV7mWIA
